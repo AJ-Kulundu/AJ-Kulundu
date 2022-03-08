@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 
 I'm a software developer from Nairobi.
 
