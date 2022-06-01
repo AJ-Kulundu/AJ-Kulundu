@@ -1,9 +1,9 @@
-### Hello  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
+### Hello  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="20px" height="20px" >
 
 I'm a software developer from Nairobi.
 
 - 🔭 I’m currently working on React and Nodejs projects
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Golang.
 
 <br>
 
