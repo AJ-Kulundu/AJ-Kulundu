@@ -3,8 +3,8 @@
 <!-- The typing writer can be found here:https://readme-typing-svg.herokuapp.com/demo/-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&pause=1000&color=1FF741&vCenter=true&multiline=true&repeat=false&width=460&lines=I'm+a+software+developer+from+Nairobi.)](https://git.io/typing-svg)
 
-- 🔭 I’m building projects using JS/TS/Golang 
-- 🌱 I’m currently learning Golang.
+- 🔭 I’m building projects using JS/TS/Ruby/Rust
+- 🌱 I’m currently learning Ruby and Rails.
 - ✏️ I write about web development on my [website](https://ajkulundu.com).
 <br>
 
